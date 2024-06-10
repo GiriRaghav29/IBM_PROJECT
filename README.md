@@ -55,8 +55,9 @@ This course is intended to demonstrate foundational Python skills for working wi
  Certificates
 
 To verify the certificates, click the images to follow the links.
+<p align="middle">
   <a href="https://coursera.org/share/8869082c2b35a9722c60518565ab7bb2"><img src="https://github.com/GiriRaghav29/certi/blob/main/ibm%20certi.png" height="430"></a>
-
+</p>
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
