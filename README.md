@@ -52,6 +52,12 @@ This course is intended to demonstrate foundational Python skills for working wi
 - Dashboard creation
 
 
+ Certificates
+
+To verify the certificates, click the images to follow the links.
+  <a href="https://coursera.org/share/8869082c2b35a9722c60518565ab7bb2"><img src="https://github.com/GiriRaghav29/certi/blob/main/ibm%20certi.png" height="430"></a>
+
+
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
