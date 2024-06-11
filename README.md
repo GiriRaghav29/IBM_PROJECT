@@ -3,6 +3,8 @@
 
 
  ###  💼 [Final Project : Analyzing Stock Performance and Building a Dashboard]
+
+ #ATTACHED CERTFICATE BELOW:))
  
 
 
